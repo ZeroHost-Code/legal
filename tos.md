@@ -10,11 +10,11 @@ ZeroHost provides free cloud hosting services powered by Hydrodactyl. We offer s
 ## 3. User Responsibilities
 You agree to:
 
-*Use the service in compliance with all applicable laws and regulations
-*Not engage in any illegal, abusive, or fraudulent activity
-*Not use the service to host malware, phishing pages, or any content that harms others
-*Not abuse system resources (e.g., cryptocurrency mining, reselling resources)
-*Keep your account credentials secure
+- Use the service in compliance with all applicable laws and regulations
+- Not engage in any illegal, abusive, or fraudulent activity
+- Not use the service to host malware, phishing pages, or any content that harms others
+- Not abuse system resources (e.g., cryptocurrency mining, reselling resources)
+- Keep your account credentials secure
 
 ## 4. Monitoring and Suspension
 
