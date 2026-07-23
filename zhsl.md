@@ -25,10 +25,9 @@ This Software License Agreement (this "**License**") is a legally binding contra
 
 1. Subject to the terms and conditions of this License, ZeroHost grants You a non-exclusive, worldwide, royalty-free, revocable license to use, copy, modify, and distribute the Software solely for Personal Use or Non-Profit Use.
 2. You may create and distribute Derivative Works of the Software for Personal Use or Non-Profit Use only, provided that such Derivative Works:
-   a. Include prominent notice of their derivation from the Software and the date of any changes made;
+   a. Include a notice of their derivation from the Software and the date of any changes made;
    b. Are accompanied by a full copy of this License;
-   c. Remain subject to the same restrictions on Prohibited Use set out herein;
-   d. Do not misrepresent their origin or imply endorsement by ZeroHost.
+   c. Remain subject to the same restrictions on Prohibited Use set out herein.
 3. By submitting a Contribution, You grant ZeroHost a perpetual, worldwide, non-exclusive, royalty-free, irrevocable license to use, copy, modify, sublicense, and distribute that Contribution and any Derivative Works thereof.
 
 ## 3. Restrictions
@@ -37,9 +36,9 @@ This Software License Agreement (this "**License**") is a legally binding contra
 2. You may not use the Software for any Prohibited Use as defined in Section 1.4.
 3. You may not sell, rent, lease, sublicense, or otherwise transfer the Software, or any rights granted under this License, without ZeroHost's prior written consent.
 4. You must include a full, unmodified copy of this License with every distribution of the Software or any Derivative Work.
-5. You may not remove, obscure, or alter any copyright, trademark, attribution, or other proprietary notice contained in the Software.
-6. You may not disable, remove, or tamper with any telemetry, licensing, or usage-verification systems included in the Software.
-7. You may not use the ZeroHost name, logo, or trademarks to endorse or promote a Derivative Work without prior written consent.
+5. You may not remove, obscure, or alter any copyright or attribution notice contained in the Software, except as expressly permitted under Section 3.7.
+6. You may disable, remove, or modify any telemetry, licensing, or usage-verification systems included in the Software, at Your sole discretion.
+7. You may remove or replace the ZeroHost name, logo, and trademarks in Your Derivative Work, and are not required to seek consent to do so. This does not grant You any rights to use the ZeroHost name, logo, or trademarks yourself to endorse or promote a Derivative Work without prior written consent.
 8. You may not use the Software in any manner that violates applicable law or regulation.
 
 ## 4. Non-Profit Use Conditions
